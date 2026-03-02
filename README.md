@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 Sobre mim
+## 👩‍💻 Sobre mim
 
 Sou estudante da área de tecnologia e estou em constante aprendizado na área de desenvolvimento e computação em nuvem.
 Utilizo este perfil para compartilhar projetos acadêmicos, exercícios práticos e experimentos que fazem parte da minha jornada na tecnologia.
@@ -20,6 +20,7 @@ Meu objetivo é desenvolver habilidades técnicas sólidas e construir um portf�
 ## 🛠️ Tecnologias e Ferramentas
 
 * Python
+* Análise de dados
 * AWS (EC2, Lambda, SNS, VPC, IAM, S3)
 * Banco de dados (SQL)
 * Git e GitHub
