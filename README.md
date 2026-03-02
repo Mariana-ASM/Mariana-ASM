@@ -1,25 +1,52 @@
-## Bem-vindo(a) ao perfil do Mariana-ASM 😁
+## 👋 Olá, eu sou Mariana Monteiro
 
- <div>
-   <a href="https://github.com/Mariana-ASM">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mariana-ASM&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariana-ASM&layout=compact&langs_count=6&theme=highcontrast"/>
-</div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Canvas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
-</div>
- 
-<br>
- 
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
- 
-<div> 
-  <a href="https://instagram.com/mariana_abrasante" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/mariana.asm" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:mariana.asm.1998@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/Mariana-ASM" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+🎓 Estudante de Sistema de informação
+💻 Interessada em programação, computação em nuvem e automação
+📚 Atualmente aprendendo **Python, AWS e fundamentos de desenvolvimento**
+
+---
+
+## 🏆 Sobre mim
+
+Sou estudante da área de tecnologia e estou em constante aprendizado na área de desenvolvimento e computação em nuvem.
+Utilizo este perfil para compartilhar projetos acadêmicos, exercícios práticos e experimentos que fazem parte da minha jornada na tecnologia.
+
+Meu objetivo é desenvolver habilidades técnicas sólidas e construir um portfólio com projetos reais.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+* Python
+* AWS (EC2, Lambda, SNS, VPC, IAM, S3)
+* Banco de dados (SQL)
+* Git e GitHub
+* Linux / Terminal
+* Conceitos de redes e sistemas
+
+---
+
+## 📂 Projetos em destaque
+
+🔹 Scripts em Python para automação
+Projetos voltados para automação de tarefas utilizando Python.
+
+🔹 Projetos com AWS
+Experimentos utilizando serviços como EC2, Lambda e SNS.
+
+🔹 Projetos acadêmicos
+Atividades práticas desenvolvidas durante minha formação em tecnologia.
+
+---
+
+## 🎯 Objetivos
+
+* Aprimorar minhas habilidades em Python
+* Aprender mais sobre computação em nuvem (AWS)
+* Desenvolver projetos práticos para portfólio
+* Contribuir para projetos open source futuramente
+
+---
+
+## ⭐ Sinta-se à vontade para me adicionar! Estou animado por ter você aqui.
+📫 Contato email: mari.monteiro1998@gmail.com
