@@ -1,12 +1,14 @@
 ## 👋 Olá, eu sou Mariana Monteiro
 
 🎓 Estudante de Sistema de informação
+
 💻 Interessada em programação, computação em nuvem e automação
-📚 Atualmente aprendendo **Python, AWS e fundamentos de desenvolvimento**
+
+📚 Atualmente aprendendo Python, AWS e fundamentos de desenvolvimento
 
 ---
 
-## 🏆 Sobre mim
+## 🚀 Sobre mim
 
 Sou estudante da área de tecnologia e estou em constante aprendizado na área de desenvolvimento e computação em nuvem.
 Utilizo este perfil para compartilhar projetos acadêmicos, exercícios práticos e experimentos que fazem parte da minha jornada na tecnologia.
