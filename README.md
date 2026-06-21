@@ -1,55 +1,107 @@
-## 👋 Olá, eu sou Mariana Monteiro
-
-🎓 Estudante de Sistema de informação
-
-💻 Interessada em programação, computação em nuvem e automação
-
-📚 Atualmente aprendendo Python, AWS e fundamentos de desenvolvimento
+# Mariana Monteiro
+Estudante de Sistemas de Informação | Salesforce CRM | Business Analysis | AWS Cloud
 
 ---
 
-## 👩‍💻 Sobre mim
+## Sobre Mim
 
-Sou estudante da área de tecnologia e estou em constante aprendizado na área de desenvolvimento e computação em nuvem.
-Utilizo este perfil para compartilhar projetos acadêmicos, exercícios práticos e experimentos que fazem parte da minha jornada na tecnologia.
+Sou estudante de Sistemas de Informação com interesse em transformação digital, computação em nuvem e soluções que conectam tecnologia e negócio.
+Atualmente curso Bacharelado em Sistemas de Informação e desenvolvo projetos voltados para computação em nuvem, análise de negócios, CRM e automação de processos.
+Sigo estudando AWS, Salesforce, Python e boas práticas de desenvolvimento.
 
-Meu objetivo é desenvolver habilidades técnicas sólidas e construir um portfólio com projetos reais.
+Utilizo este perfil para compartilhar projetos acadêmicos, estudos de caso, documentações funcionais e soluções desenvolvidas durante minha jornada de aprendizado.
 
----
+Tenho interesse especial em áreas como:
 
-## 🛠️ Tecnologias e Ferramentas
+- Salesforce CRM
+- Business Analysis
+- Cloud Computing (AWS)
+- Automação de Processos
+- Desenvolvimento com Python
+- Soluções Low-Code e No-Code
 
-* Python
-* Análise de dados
-* AWS (EC2, Lambda, SNS, VPC, IAM, S3)
-* Banco de dados (SQL)
-* Git e GitHub
-* Linux / Terminal
-* Conceitos de redes e sistemas
-
----
-
-## 📂 Projetos em destaque
-
-🔹 Scripts em Python para automação
-Projetos voltados para automação de tarefas utilizando Python.
-
-🔹 Projetos com AWS
-Experimentos utilizando serviços como EC2, Lambda e SNS.
-
-🔹 Projetos acadêmicos
-Atividades práticas desenvolvidas durante minha formação em tecnologia.
+Meu objetivo é construir experiências práticas, desenvolver habilidades técnicas e criar um portfólio sólido voltado para tecnologia, análise de negócios e soluções em nuvem.
 
 ---
 
-## 🎯 Objetivos
+## Tecnologias e Ferramentas
 
-* Aprimorar minhas habilidades em Python
-* Aprender mais sobre computação em nuvem (AWS)
-* Desenvolver projetos práticos para portfólio
-* Contribuir para projetos open source futuramente
+### CRM e Business Analysis
+
+- Salesforce CRM
+- Sales Cloud
+- Service Cloud
+- Marketing Cloud
+- Levantamento de Requisitos
+- Process Mapping
+- CRM Design
+
+### Cloud Computing
+
+- AWS EC2
+- AWS Lambda
+- AWS S3
+- AWS IAM
+- AWS SNS
+- AWS VPC
+
+### Desenvolvimento
+
+- Python
+- SQL
+- Git
+- GitHub
+- Linux
+- Terminal
 
 ---
 
-## ⭐ Sinta-se à vontade para me adicionar! Estou animado por ter você aqui.
-📫 Contato email: mari.monteiro1998@gmail.com
+## Formação e Cursos
+
+### Graduação
+
+- Bacharelado em Sistemas de Informação (em andamento)
+
+### Cursos Complementares
+
+- Formação em Análise de Negócios
+- Salesforce Trailhead
+- AWS Cloud Practitioner
+
+---
+## Projetos em Destaque
+
+### Salesforce CRM Solutions
+
+Estudos de caso e desafios funcionais utilizando Sales Cloud, Service Cloud e Marketing Cloud para resolução de problemas de negócio.
+
+### Projetos AWS
+
+Soluções utilizando serviços de computação em nuvem, automação e arquiteturas serverless.
+
+### Automação com Python
+
+Scripts e aplicações voltados para automação de tarefas e resolução de problemas.
+
+### Projetos Acadêmicos
+
+Atividades práticas desenvolvidas durante a graduação e cursos complementares.
+
+---
+
+## Objetivos
+
+- Desenvolver expertise em Salesforce CRM
+- Aprimorar conhecimentos em AWS Cloud
+- Evoluir em Business Analysis e Análise Funcional
+- Construir projetos práticos para portfólio
+- Contribuir para projetos open source futuramente
+
+---
+
+## Contato
+
+Email: mari.monteiro1998@gmail.com
+
+Fique à vontade para explorar meus projetos e acompanhar minha evolução na área de tecnologia.
+```
